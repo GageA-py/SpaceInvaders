@@ -1,1 +1,12 @@
 __pycache__/
+
+
+.env
+.venv
+.nenv
+env/
+venv/
+nenv/
+ENV/
+env.bak/
+venv.bak/
